@@ -7,7 +7,7 @@ For using this PSU, a suitable enclosure is required. It must not be connected t
 
 This PSU is designed for a low price at a decent comfort and for providing a PSU that can be switched between 230V and 115V mains.
 
-The testing of Rev. 0 is still prliminary. The PSU was successfully tested with all ASSYs, that I have (250407, 250425, 250466, 250469). The panel meter current measurement worked, but the reading of all panelmeters was off, because those seem to have a bad quality. In Rev. 1 (yet to be released), the current measurement was dropped. The jumpers for bridging the current measurement should be replaced with short wire bridges in Rev. 0.
+The testing of Rev. 0 is still preliminary. The PSU was successfully tested with all ASSYs, that I have (250407, 250425, 250466, 250469). The panel meter current measurement worked, but the reading of all panelmeters was off, because those seem to have a bad quality. In Rev. 1 (yet to be released), the current measurement was dropped. The jumpers for bridging the current measurement should be replaced with short wire bridges in Rev. 0.
 
 The changes in Rev. 1 are the dropped current measurement. The freed space was used for wider copper traces. The complete documentation, test documenst etc. will be released as soon as I have tested the Rev. 1 prototypes.  
 
