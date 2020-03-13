@@ -14,7 +14,7 @@ The changes in Rev. 1 are the dropped current measurement. The freed space was u
 # Case
 The case is designed. At 24°C room temperature the temperature measured above the transformer reached 44°C while powering an ASSY 250425 C64. This is not critical, since the critical temperature for PLA is 55°C-60°C. In case you need to operate the power supply in higher ambient temperatures, you should consider PETG or ABS for printing or install the PSU in a metal case.
 
-The case was designed to fit the <a href="https://github.com/svenpetersen1965/Illuminated-Commmodore-logo">illuminated Commodore Logo</a> or 64 Logo (in my repository).  
+The case was designed to fit the <a href="https://github.com/svenpetersen1965/Illuminated-Commmodore-logo">illuminated Commodore Logo</a> or <a href="https://github.com/svenpetersen1965/Illuminated-64-logo">64 Logo</a> (in my repository).  
 
 <img src="https://github.com/svenpetersen1965/C64-PSU-Global/blob/master/Case/Rev%200/pictures/C64PSU_Global_2020-Jan-25_09-02-46PM-000_CustomizedView5472657207.jpg" width="300" alt="C64 PSU Global case">
 
