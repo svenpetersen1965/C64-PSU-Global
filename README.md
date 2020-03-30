@@ -11,6 +11,8 @@ The testing of Rev. 0 is still preliminary. The PSU was successfully tested with
 
 The changes in Rev. 1 are the dropped current measurement. The freed space was used for wider copper traces. The complete documentation, test documenst etc. will be released as soon as I have tested the Rev. 1 prototypes.  
 
+Find some info on the required cable making <a href="http://tech.guitarsite.de/cable_making.html">on my website</a>
+
 # Case
 The case is designed. At 24°C room temperature the temperature measured above the transformer reached 44°C while powering an ASSY 250425 C64. This is not critical, since the critical temperature for PLA is 55°C-60°C. In case you need to operate the power supply in higher ambient temperatures, you should consider PETG or ABS for printing or install the PSU in a metal case.
 
