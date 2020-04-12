@@ -9,7 +9,7 @@ This PSU is designed for a low price at a decent comfort and for providing a PSU
 
 The testing of Rev. 0 is still preliminary. The PSU was successfully tested with all ASSYs, that I have (250407, 250425, 250466, 250469). The panel meter current measurement worked, but the reading of all panelmeters was off, because those seem to have a bad quality. In Rev. 1 (yet to be released), the current measurement was dropped. The jumpers for bridging the current measurement should be replaced with short wire bridges in Rev. 0.
 
-The changes in <b>Rev. 1<7b> are the dropped current measurement. The freed space was used for wider copper traces. The complete documentation, test documents are released now. The documentatin of Rev. 0 will stay incomplete, most of the Rev. 1 documentation applies to Rev. 0 as well.  
+The changes in <b>Rev. 1</b> are the dropped current measurement. The freed space was used for wider copper traces. The complete documentation, test documents are released now. The documentatin of Rev. 0 will stay incomplete, most of the Rev. 1 documentation applies to Rev. 0 as well.  
 
 Find some info on the required cable making <a href="http://tech.guitarsite.de/cable_making.html">on my website</a>
 
