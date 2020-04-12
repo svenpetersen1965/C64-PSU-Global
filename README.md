@@ -1,7 +1,8 @@
 # C64-PSU-Global
 A replacement PSU for the Commodore C64, which works with 230V/115V.
 
-<img src="https://github.com/svenpetersen1965/C64-PSU-Global/blob/master/Rev.%200/pictures/2913_psu_global.JPG" width="300" alt="C64 PSU Global  (PCB only)">
+<img src="https://github.com/svenpetersen1965/C64-PSU-Global/blob/master/Rev.%200/pictures/2913_psu_global.JPG" width="300" alt="C64 PSU Global  (PCB only)"> 
+<img src="https://github.com/svenpetersen1965/C64-PSU-Global/blob/master/Rev.%201/pictures/4212_C64_PSU_Global_black_case.JPG" width="300" alt="C64 PSU Global  (PCB only)">
 
 For using this PSU, a suitable enclosure is required. It must not be connected to 230V while 115V mains is selected.
 
