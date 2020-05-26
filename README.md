@@ -24,7 +24,8 @@ The case was designed to fit the <a href="https://github.com/svenpetersen1965/Il
 Since there is a version of the PSU for 230V only and one version that can be switched between 115V and 230V, which requires a mains voltage selector switch, there are two versions for the bottom shell.
 
 <img src="https://github.com/svenpetersen1965/C64-PSU-Global/blob/master/Case/Rev%200/pictures/C64PSU_Global_2020-Mar-13_10-27-42AM-000_CustomizedView16251881473.png" width="300" alt="C64 PSU Global bottom shells">
-# Price
+
+# Prices
 I have calculated the prices of May 2020.
 Those prices do not include shipping fees and might differ from distributor to distributor. The prices of the items are from reichelt.de and tme.eu. 
 A 115V/230V type is 40,90€
