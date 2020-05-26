@@ -27,6 +27,10 @@ Since there is a version of the PSU for 230V only and one version that can be sw
 
 # Prices
 I have calculated the prices of May 2020.
-Those prices do not include shipping fees and might differ from distributor to distributor. The prices of the items are from reichelt.de and tme.eu. 
+Those prices do not include shipping fees and might differ from distributor to distributor. The prices of the items are from reichelt.de and tme.eu.
+
 A 115V/230V type is 40,90€
+
 A 230V only type is 35,11€
+
+This does not incluse the 3D printed case, wich might weigh 150g and take 12h to print.
