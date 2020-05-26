@@ -33,4 +33,4 @@ A 115V/230V type is 40,90€
 
 A 230V only type is 35,11€
 
-This does not incluse the 3D printed case, wich might weigh 150g and take 12h to print.
+This does not incluse the 3D printed case, which might weigh 150g and take 12h to print.
